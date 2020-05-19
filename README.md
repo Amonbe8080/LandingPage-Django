@@ -9,3 +9,4 @@ LandingPage sobre el proyecto final llamado Digital Market, con esta se pretende
   
   ![Desarrolladores](https://github.com/Amonbe8080/LandingPage-Django/blob/master/Screenshots/Nosotros.png)
   
+  ![Footer](https://github.com/Amonbe8080/LandingPage-Django/blob/master/Screenshots/Footer.png)
